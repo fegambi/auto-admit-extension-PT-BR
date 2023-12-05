@@ -1,4 +1,6 @@
 ## Auto admit for Google meet
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffegambi%2Fauto-admit-extension-PT-BR.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffegambi%2Fauto-admit-extension-PT-BR?ref=badge_shield)
+
 
 ### Chrome Extension:
 ![](screenshot20210604.jpg)
@@ -24,3 +26,7 @@
  
 ### Github Repo
 [fjwntut/auto-admit-extension: Auto admit extension for google meet](https://github.com/fjwntut/auto-admit-extension)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffegambi%2Fauto-admit-extension-PT-BR.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffegambi%2Fauto-admit-extension-PT-BR?ref=badge_large)
